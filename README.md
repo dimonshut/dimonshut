@@ -2,7 +2,7 @@
 
 - 🇺🇦 I live in Ukraine
 - ✏️ I write articles on my blog: [forwww.com](https://forwww.com)
-- ✉️ You can shoot me an email at [dimonshut@gmail.com](mailto:dimonshut@gmail.com)
+- ✉️ You can shoot me an email at [dmitriyribka@gmail.com](mailto:dmitriyribka@gmail.com)
 
 ## 🚀 What i use
 
@@ -34,10 +34,10 @@
 
 ### [forwww.com](https://forwww.com)
 
-[forwww.com](https://forwww.com) is a small IT-lifestyle community that has emerged around my work experience. Mostly it\`s about Bitrix API, but also you see articles about HTML, CSS, JavaScript, jQuery, PHP. From 2015 until now.
+[forwww.com](https://forwww.com) is a small IT-lifestyle community that has emerged around my work experience. Mostly it\`s about Laravel, but also you see articles about HTML, CSS, JavaScript, PHP. From 2015 until now.
 
 ## 🤝 Connect with me
 
-[![dimonshut@gmail.com](https://img.shields.io/badge/dimonshut@gmail.com-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dimonshut@gmail.com)
+[![dmitriyribka@gmail.com](https://img.shields.io/badge/dmitriyribka@gmail.com-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitriyribka@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriyrybka/)
 [![forwww.com](https://img.shields.io/badge/forwww.com%20-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://forwww.com)
